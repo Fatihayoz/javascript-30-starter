@@ -12,6 +12,8 @@ const shadow = (e) => {
 
   const xWalk = Math.round((x / width) * walk - walk / 2);
   const yWalk = Math.round((y / height) * walk - walk / 2);
+
+  text.style.textShadow = calculateTextShadow (xWalk, yWalk);
 };
 
 export { shadow };
