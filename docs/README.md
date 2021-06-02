@@ -19,6 +19,7 @@
 - listeners
   - [listeners.js](#srclistenerslistenersjs)
 - logic
+  - [logic.js](#srclogiclogicjs)
 - procedures
 - [data.js](#srcdatajs)
 
@@ -65,6 +66,10 @@
 ---
 
 # /logic
+
+<details><summary><a href="../src/logic/logic.js" id="srclogiclogicjs">src/logic/logic.js</a></summary>
+
+</details>
 
 ---
 
