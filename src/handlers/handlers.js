@@ -1,4 +1,5 @@
 const shadow = (e) => {
+  const hero = document.querySelector(".hero");
   const { offsetWidth: width, offsetHeight: height } = hero;
   let { offsetX: x, offsetY: y } = e;
 
