@@ -1,4 +1,4 @@
-function shadow(e) {
+const shadow = (e) => {
   const { offsetWidth: width, offsetHeight: height } = hero;
   let { offsetX: x, offsetY: y } = e;
 
