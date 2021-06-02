@@ -6,6 +6,8 @@ Second, we write the handler. We have to export handlers.js to make listener to 
 --> In the listener part, we have to import what we export in handler.
 Third, we also write the querySelector in the handler
 Forth, we also write variables in the handler
+Fifth, we write a function defining the coordinates in the logic.
+Then export it to the handler.
 
 */
 
