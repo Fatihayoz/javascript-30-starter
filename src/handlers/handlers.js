@@ -13,4 +13,4 @@ const playSound = (e) => {
   audio.play();
 };
 
-export { removeTransition };
+export { removeTransition, playSound };
